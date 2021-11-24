@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @21givenchy
-- 👀 I’m interested in web development and software engineering
-- 🌱 I’m currently learning information technology
+- 👀 I’m interested 
 - 💞️ I’m looking to collaborate on android apps and websites
 - 📫 How to reach me https://www.linkedin.com/in/george-karani-3b9a8b1b2/
 
