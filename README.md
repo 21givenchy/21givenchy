@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @21givenchy
-- I WORK WEB3
+-  I’m @21givenchy
+- 
+- I WORK ON COOL STUFF
+
+-LETS GOOO
+
 - 📫 How to reach me https://www.linkedin.com/in/george-karani-3b9a8b1b2/
 
 <!---
