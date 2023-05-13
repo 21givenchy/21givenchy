@@ -9,9 +9,9 @@ Full-Stack Jedi Knight
 As a Full-Stack Jedi Knight, I am skilled in the ways of both the front-end and back-end. I use my mastery of the Force - also known as JavaScript - to create powerful and intuitive web applications. With my lightsaber - or text editor - at my side, I fearlessly take on the challenges of web development, always striving to create elegant and efficient solutions. Whether I'm battling bugs or designing beautiful user interfaces, I am committed to using the full range of my skills to create exceptional web experiences.
 
 * 🌍  I'm based in Kenya
-* 🖥️  See my portfolio at [portfolio](http://https://threejs-vert.vercel.app/)
+* 🖥️  See my portfolio at [portfolio](/)
 * ✉️  You can contact me at [https://www.linkedin.com/in/george-karani-3b9a8b1b2](mailto:https://www.linkedin.com/in/george-karani-3b9a8b1b2)
-* 🚀  I'm currently working on [I'm passionate about pushing the boundaries of what's possible with web3 technologies, and I'm always on the lookout for new and exciting projects to work on.](http://https://frontforumfocus.frontforumfocus.tech/)
+* 🚀  I'm currently working on [I'm passionate about pushing the boundaries of what's possible with web3 technologies, and I'm always on the lookout for new and exciting projects to work on.](/)
 * 🧠  I'm learning I'm constantly learning and exploring new tools and frameworks to stay up-to-date with the latest developments in the web3 space.
 * 🤝  I'm open to collaborating on Open source,
 * ⚡  Lets gooooooooooooooooooooooooooooooooooooooooooooooooooooo
