@@ -51,7 +51,6 @@ src="https://img.shields.io/twitch/status/21givenchy?logo=twitchsx&style=for-the
 
 <a href="http://www.github.com/palontologist"><img src="https://github-readme-stats.vercel.app/api?username=palontologist&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="palontologist's GitHub stats" /></a>
 
-<a href="http://www.github.com/palontologist"><img src="https://github-readme-streak-stats.herokuapp.com/?user=palontologist&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <b>Top Repositories</b>
 
