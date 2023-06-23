@@ -1,17 +1,17 @@
+<h2> <img src="https://media.giphy.com/media/65zUp0fMkGNg3ql7oc/giphy.gif" width="50"> Hi, I am <s>George</s> 21givenchy! </h2>
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is 21givenchy
 ==================================================================================================================================
 
 Full-Stack Jedi Knight
 ----------------------
 
-As a Full-Stack Jedi Knight, I am skilled in the ways of both the front-end and back-end. I use my mastery of the Force - also known as JavaScript - to create powerful and intuitive web applications. With my lightsaber - or text editor - at my side, I fearlessly take on the challenges of web development, always striving to create elegant and efficient solutions. Whether I'm battling bugs or designing beautiful user interfaces, I am committed to using the full range of my skills to create exceptional web experiences.
+As a Full-Stack Jedi Knight, I am skilled in the ways of both the front-end and back-end.
+I use my mastery of the Force to create powerful and intuitive web applications. 
+I fearlessly take on the challenges of web development, always striving to create elegant and efficient solutions
+ Whether I'm battling bugs or designing beautiful user interfaces.
+I am committed to using the full range of my skills to create exceptional web experiences.
 
-* 🌍  I'm based in Kenya
-* 🖥️  See my portfolio at [portfolio](/)
-* ✉️  You can contact me at [https://www.linkedin.com/in/george-karani-3b9a8b1b2](mailto:https://www.linkedin.com/in/george-karani-3b9a8b1b2)
-* 🚀  I'm currently working on [I'm passionate about pushing the boundaries of what's possible with web3 technologies, and I'm always on the lookout for new and exciting projects to work on.](/)
 * 🧠  I'm learning I'm constantly learning and exploring new tools and frameworks to stay up-to-date with the latest developments in the web3 space.
 * 🤝  I'm open to collaborating on Open source,
 * ⚡  Lets gooooooooooooooooooooooooooooooooooooooooooooooooooooo
