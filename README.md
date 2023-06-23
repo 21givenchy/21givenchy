@@ -5,10 +5,10 @@
 <p><em>Full-stack Jedi Knight.</a>
 </em></p>
 <h3>˖°. <img src="https://media.giphy.com/media/Lh1XLWCeaSLUnz8l1A/giphy.gif" width="150"> .°˖</h3>
-As a Full-Stack Jedi Knight.
-I use my mastery of the Force to create powerful and intuitive web applications. 
-I am committed to using the full range of my skills to create exceptional web experiences.
-* 🤝  I'm open to collaborating on Open source,
+As a Full-Stack Jedi Knight. </br>
+I use my mastery of the Force to create powerful and intuitive web applications. </br>
+I am committed to using the full range of my skills to create exceptional web experiences.</br>
+* 🤝  I'm open to collaborating on Open source </br>
 * ⚡  Lets gooooooooooooooooooooooooooooooooooooooooooooooooooooo
 
 <a href="https://www.twitch.tv/21givenchy" target="_blank" rel="noreferrer"><img
