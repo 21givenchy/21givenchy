@@ -1,4 +1,5 @@
-<h2> <img src="https://media.giphy.com/media/65zUp0fMkGNg3ql7oc/giphy.gif" width="50"> Hi, I am <s>George</s> 21givenchy! </h2>
+<h2> <img src="https://media.giphy.com/media/65zUp0fMkGNg3ql7oc/giphy.gif" height='100'width="150"> Hi, I am <s>George</s> 21givenchy! </h2>
+<img align='right' src="https://media.giphy.com/media/dTtOyFXfwU5Io91IVW/giphy.gif" width="130"> 
 
 
 ==================================================================================================================================
@@ -59,9 +60,6 @@ src="https://img.shields.io/twitch/status/21givenchy?logo=twitchsx&style=for-the
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/21givenchy#7804" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/frontforumfocus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/palontologist" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/21givenchy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/george-karani-3b9a8b1b2/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21givenchy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/21givenchy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/frontforumfocus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/21givenchy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
