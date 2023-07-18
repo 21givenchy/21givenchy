@@ -7,10 +7,9 @@
 </em></p>
 <h3 align='center'>˖°. <img src="https://media.giphy.com/media/Lh1XLWCeaSLUnz8l1A/giphy.gif" width="150"> .°˖</h3>
 <p align='center'>As a Full-Stack Jedi Knight. </br>
-I use my mastery of the Force to create powerful and intuitive web applications. </br>
-I am committed to using the full range of my skills to create exceptional web experiences.</br>
+I am always looking for new challenges and opportunities to learn and grow.</br>
 * 🤝  I'm open to collaborating on Open source </br>
-* ⚡  Lets gooooooooooooooooooooooooooooooooooooooooooooooooooooo
+* ⚡ Let's build something awesome together!
 </p>
 <p align='center'>
   
