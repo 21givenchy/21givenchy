@@ -1,16 +1,26 @@
-<h2> <img src="https://media.giphy.com/media/65zUp0fMkGNg3ql7oc/giphy.gif" height='100'width="150"> Hi, I am <s>George</s> 21givenchy! </h2>
+<h2 align='center'> <img src="https://media.giphy.com/media/65zUp0fMkGNg3ql7oc/giphy.gif" height='100'width="150"><h2>
+<h2 align='center'> Hi, I am <s>George</s> 21givenchy! </h2>
 <img align='right' src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="130"> 
 
 
-<p><em>Full-stack Jedi Knight.</a>
+<p align='center'><em>Full-stack Jedi Knight.</a>
 </em></p>
-<h3>˖°. <img src="https://media.giphy.com/media/Lh1XLWCeaSLUnz8l1A/giphy.gif" width="150"> .°˖</h3>
-As a Full-Stack Jedi Knight. </br>
+<h3 align='center'>˖°. <img src="https://media.giphy.com/media/Lh1XLWCeaSLUnz8l1A/giphy.gif" width="150"> .°˖</h3>
+<p align='center'>As a Full-Stack Jedi Knight. </br>
 I use my mastery of the Force to create powerful and intuitive web applications. </br>
 I am committed to using the full range of my skills to create exceptional web experiences.</br>
 * 🤝  I'm open to collaborating on Open source </br>
 * ⚡  Lets gooooooooooooooooooooooooooooooooooooooooooooooooooooo
-
+</p>
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/george-karani-3b9a8b1b2/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/21givenchy/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
 <a href="https://www.twitch.tv/21givenchy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/21givenchy?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
