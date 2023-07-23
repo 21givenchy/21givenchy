@@ -2,7 +2,7 @@
 <h2 align='center'> Hi, I am <s>George</s> 21givenchy! </h2>
 <img align='right' src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="130"> 
 
-
+` 
 <p align='center'><em>Full-stack Jedi Knight.</a>
 </em></p>
 <h3 align='center'>˖°. <img src="https://media.giphy.com/media/Lh1XLWCeaSLUnz8l1A/giphy.gif" width="150"> .°˖</h3>
