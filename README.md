@@ -1,15 +1,15 @@
 <h2 align='center'> <img src="https://media.giphy.com/media/65zUp0fMkGNg3ql7oc/giphy.gif" height='100'width="150"><h2>
+  <img align =  'left' src="https://media.giphy.com/media/tNC2rod1uTrdC/giphy.gif" height='100'width="150">
 <h2 align='center'> Hi, I am <s>George</s> 21givenchy! </h2>
 <img align='right' src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="130"> 
 
 
+
 ` 
-<p align='center'> <em>Full-stack Jedi Knight.</a>
-  sword
-</em></p>
-<h3 align='center'>˖°. <img src="https://media.giphy.com/media/Lh1XLWCeaSLUnz8l1A/giphy.gif" width="150"> .°˖</h3>
-<p align='center'>As a Full-Stack Jedi Knight. </br>
-I am always looking for new challenges and opportunities to learn and grow.</br>
+<p align='center'> <em>Full-stack Jedi Knight.</a></em></p>
+
+<p align='center'>
+   
 * 🤝  I'm open to collaborating on Open source </br>
 * ⚡ Let's build something awesome together!
 </p>
@@ -55,17 +55,13 @@ src="https://img.shields.io/twitch/status/21givenchy?logo=twitchsx&style=for-the
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/palontologist"><img src="https://github-readme-stats.vercel.app/api?username=palontologist&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="palontologist's GitHub stats" /></a>
 
 
 <b>Top Repositories</b>
-sword
-<div width="100%" align="center"><a href="https://github.com/palontologist/mvp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=palontologist&repo=mvp&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/palontologist/weird" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=palontologist&repo=mvp&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
