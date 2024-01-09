@@ -11,7 +11,8 @@
 <p align='center'>
    
 * 🤝  I'm open to collaborating on Open source </br>
-* ⚡ Let's build something awesome together!
+*    I am learning rust, solidy, react native.
+* ⚡ Building frontforumfocus.tech!
 </p>
 <p align='center'>
   
