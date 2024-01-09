@@ -25,7 +25,8 @@
 <a href="https://www.twitch.tv/21givenchy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/21givenchy?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
-### Skills
+
+<h3 align="left">Languages and Tools:</h3>
 
 
 <p align="left">
