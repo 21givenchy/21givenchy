@@ -12,8 +12,22 @@
    
 * 🤝  I'm open to collaborating on Open source </br>
 *    I am learning rust, solidy, react native.
-* ⚡ Building frontforumfocus.tech!
+* ⚡ Building frontforumfocus.com!
 </p>
+
+<p align='left'> <em> Projects </a></em></p>
+
+<p align='center'>
+ 
+  *  HoroscopeNFT — Horoscope-themed NFT marketplace and minting frontend.
+  *  KaraniNFT — Minted NFT collection with on-chain metadata and token URIs.
+  *  sapience-dual-agent — Dual-agent system for forecasting and automated trading.
+  *  face / facedescription — Face-recognition experiments and demo scripts (MOOD/AI).
+  *  trucking — Fleet-tracking frontend built with Astro (UI + API integration).
+  *  scaling-chainsaw — Portfolio/showcase site highlighting projects and work.
+
+  </p>
+
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/george-karani-3b9a8b1b2/">
@@ -37,8 +51,7 @@ src="https://img.shields.io/twitch/status/21givenchy?logo=twitchsx&style=for-the
 [![THE RISING FUTURE OF THE AFRICAN SPACE INDUSTRY](https://ytcards.demolab.com/?id=jUtzqaV69_M&title=THE+RISING+FUTURE+OF+THE+UI%2FUX+AFRICAN+SPACE+INDUSTRY&lang=en&timestamp=1673971200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4093 "THE RISING FUTURE OF THE AFRICAN SPACE INDUSTRY")](https://youtu.be/jUtzqaV69_M?si=ApXflGPVmGEy13md)
 <!-- END YOUTUBE-CARDS -->
 
-<b>Top Repositories</b>
-<div width="100%" align="center"><a href="https://github.com/palontologist/weird" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=palontologist&repo=mvp&title_color=84cc16&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
 
 ### Support Me
 
